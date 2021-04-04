@@ -1,13 +1,9 @@
-# nodeServerAPI
-Node server API REST
+## Instale dependencias
 
+**npm install** ó **yarn install**
 
-Instale dependecias
-
-npm install
-
-Ejecute
+## Ejecute
 
 node server.js
 
-
+**Luego de ejecutar estará disponible en: https://localhost:8080**
