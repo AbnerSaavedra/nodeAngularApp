@@ -6,4 +6,4 @@
 
 node server.js
 
-**Luego de ejecutar estará disponible en: https://localhost:8080**
+**Luego de ejecutar estará disponible en: http://localhost:8080**
